@@ -105,7 +105,3 @@ az feedback                   # Send feedback to the Azure team
   ```bash
   az vm create --help
   ```
-
----
-
-Need this as a downloadable `.md` file? Let me know!
